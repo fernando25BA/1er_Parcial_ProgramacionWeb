@@ -1,0 +1,15 @@
+.Contenido{
+  background-color: white;
+  position: absolute;
+  margin-top: 40px;
+  bottom: 20%;
+  left: 3.5%;
+
+
+
+  height: 390px;
+  width: 1900px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: white
+}
